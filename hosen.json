@@ -1,0 +1,7 @@
+{
+    "success": true,
+    "message": "The request is ok",
+    "data": {
+        "payment_option": true,
+    }
+}
