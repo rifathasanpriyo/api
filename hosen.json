@@ -2,6 +2,6 @@
     "success": true,
     "message": "The request is ok",
     "data": {
-        "payment_option": false
+        "payment_option": true
     }
 }
